@@ -14,7 +14,7 @@ public class RemoveWhiteSpace {
 				System.err.print(inputstring[i]);
 			}
 		
-				
+				System.out.println("checking");
 		}
 		
 	}
